@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    text-align:center;
+}
+
+main {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+button{
+    border-radius:10px;
+    width:100px;
+    border: 1px solid grey;
+}
+
+header {
+    background: #f4f4f4;
+    padding: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    max-width: 96px;
+    margin-right:2px;
+}
+
+header h1 {
+    font-size: 2.5em;
+}
+
+h3{
+    margin:2%;
+}
+
+h1, h3   {
+    text-align: center;
+    font-weight:bold;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5em;
+}
+
+.new-member-form {
+    margin: 2em 0 4em 0;
+    text-align: center;
+}
+
+.member-item {
+    padding: 0.25em 0;
+}
+
+footer {
+    margin-top: 2em;
+    text-align: center;
+    color: #fff;
+    background: #f76c6c;
+    padding: 2em 0;
+}
+
+body ul{
+    text-align:left;
+    margin-left: 10%;
+}
+
+li {name
+    list-style-type: none;
+}
+
+#crew_form{
+    display:flex;
+    justify-content:center;
+}
+
+#name{
+    margin-right: 4px;
+}
